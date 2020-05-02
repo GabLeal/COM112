@@ -83,6 +83,9 @@ int main(){
     
     double *dados;
     int len = 0;
+    int r = 0;
+    int row = 0;
+
     do{
         choice = menu(len);
         printf("\n");
