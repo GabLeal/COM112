@@ -1,0 +1,6 @@
+
+Numero de elementos ordenados: 1000
+Metodo Merge Sort
+	tempo: 472.00
+	comparações: 8703
+	movimentações: 9976
